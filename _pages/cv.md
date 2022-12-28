@@ -12,19 +12,13 @@ redirect_from:
 Education
 ======
 * BEng. in Microelectronics, South China University of Technology (SCUT), 2019.09 - 2023.06
-* Ph.D in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, 2023.08 - Now
+* Ph.D student in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, 2023.08 - Now
 
-Work experience
+Awards and Honors
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* National Scholarship (2021,2022)
+* Look forward to good news
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
