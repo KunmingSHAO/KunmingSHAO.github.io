@@ -2,7 +2,7 @@
 title: "Analog Electronics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-fall-teaching-1.md
+permalink: /teaching/2022-fall-teaching-1
 venue: "SCUT"
 date: 2022-09-21
 location: "Guangzhou, China"
