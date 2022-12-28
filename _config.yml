@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Kunming SHAO"
   avatar           : "profile.png"
-  bio              : "Incoming PhD student at HKUST \n AI Chip and Digital Compute-In-Memory"
-  location         : "Location"
+  bio              : "Incoming PhD student at HKUST \ AI Chip \ Digital Compute-In-Memory"
+  location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=JU6McLoAAAAJ&hl=zh-CN&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "KunmingSHAO"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
