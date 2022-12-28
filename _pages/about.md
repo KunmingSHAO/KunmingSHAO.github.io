@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Kunming's homepage!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,6 +10,7 @@ redirect_from:
 
 
 {% include base_path %}
+# Welcome to Kunming's homepage!
 
 # Kunming SHAO (邵堃明)
 ## Undergraduate student at South China University of Technology (SCUT)
