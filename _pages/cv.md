@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-#Education
+Education
 ======
-## BEng. in Microelectronics, South China University of Technology (SCUT), 2019.09 - 2023.06
+### BEng in Microelectronics, South China University of Technology (SCUT), 2019.09 - 2023.06
 * GPA    3.94
 * Rank   1/120
 * IELTS  7
 * Supervisors are Prof. Bin LI and Prof. Zhaohui WU
-## Visiting internship student, AI Chip Center for Emerging Smart Systems (ACCESS), 2022.11 - Present
-## Ph.D student in Electronic and Computer Engineering, The Hong Kong University of Science and Technology (HKUST), 2023.08 - Present
+### Visiting internship student, AI Chip Center for Emerging Smart Systems (ACCESS), 2022.11 - Present
+### PhD student in Electronic and Computer Engineering, The Hong Kong University of Science and Technology (HKUST), 2023.08 - Present
 * Hardware design, AI chip and Digital Compute-In-Memory
 * Supervisors are Prof. Chi-Ying TSUI and Prof. Kwang-Ting Tim CHENG
 
