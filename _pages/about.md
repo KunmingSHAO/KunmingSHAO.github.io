@@ -11,41 +11,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* BEng. in Microelectronics, South China University of Technology (SCUT), 2019.09 - 2023.06
-  * GPA    3.94
-  * Rank   1/120
-  * IELTS  7
-  * Supervisors are Prof. Bin LI and Prof. Zhaohui WU
-* Ph.D student in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, 2023.08 - Now
-  * Hardware design, AI chip and Digital Compute-In-Memory
-  * Supervisors are Prof. Chi-Ying TSUI and Prof. Kwang-Ting Tim CHENG
+## Kunming SHAO (邵堃明)
+### Undergraduate student at South China University of Technology (SCUT)
 
-Awards and Honors
-======
-* National Scholarship (2021,2022)
-* Look forward to good news
+Kunming SHAO is now a undergraduate student of\
+#### South China University of Technology\
+and a visiting internship undergraduate student at\ 
+#### The Hong Kong University of Science and Technology\
+and\
+#### AI Chip Center for Emerging Smart Systems.\
+He will receive his Bachelor's degree at SCUT in June 2023 supervised by Prof. Bin LI and Prof. Zhaohui WU. In Aug. 2023, he will be a PhD student at HKUST ECE supervised by Prof. Chi-Ying TSUI and Kwang-Ting Tim CHENG. His current research interests are AI chip design, Digital Compute-In-Memory (DCIM) and Computer Architecture.
 
-  
-Skills
-======
-* Video Games
-* IC Design
-  * Verilog
-  * Synthesis
-  * Placement & Routing
-* Computer Architecture
-
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Vice President of Microelectronics Association, SCUT
-* Excellent Social Practice Volunteer of SCUT
 
