@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BEng. in Microelectronics, South China University of Technology (SCUT), 2019.09 - 2023.06
+* Ph.D in Electronic and Computer Engineering, The Hong Kong University of Science and Technology, 2023.08 - Now
 
 Work experience
 ======
@@ -29,12 +28,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Video Games
+* IC Design
+  * Verilog
+  * Synthesis
+  * Placement & Routing
+* Computer Architecture
 
 Publications
 ======
@@ -56,4 +55,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice President of Microelectronics Association, SCUT
+* Excellent Social Practice Volunteer of SCUT
