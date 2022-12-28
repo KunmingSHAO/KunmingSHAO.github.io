@@ -82,7 +82,11 @@ analytics:
 author:
   name             : "Kunming SHAO"
   avatar           : "profile.png"
-  bio              : "Incoming PhD student at HKUST \ AI Chip \ Digital Compute-In-Memory"
+  bio              : "Incoming PhD student at HKUST"
+                     
+                     "AI Chip"
+                     
+                     "Digital Compute-In-Memory"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
