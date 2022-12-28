@@ -4,7 +4,7 @@ title: "To be read in 2023"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /Reading list.html
 ---
 
 
