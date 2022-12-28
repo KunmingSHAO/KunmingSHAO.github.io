@@ -8,5 +8,5 @@ date: 2022-09
 location: "Guangzhou, China"
 ---
 
-We used Neamen's Microelectronics: Circuit Analysis And Design, Fourth Edition
+I am the lecture of this unofficial course, and we used Neamen's Microelectronics: Circuit Analysis And Design, Fourth Edition
 
