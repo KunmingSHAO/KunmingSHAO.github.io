@@ -7,17 +7,17 @@ redirect_from:
   - /markdown.html
 ---
 
-##To be read in 2023
+# To be read in 2023
 
-### Books
+## Books
 
 * CMOS VLSI Design, A Circuits and Systems Perspective. Fourth Edition
 * Verilog Digital System Design. Second Edition
 * Computer Architecture, A Quantitive Approach. Sixth Edition
-* 动手学深度学习
+* 动手学深度学习 Release 2.0.0-beta1
 
 
-### Papers
+## Papers
 * Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks
 * DaDianNao: A Machine-Learning Supercomputer
 * Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks
