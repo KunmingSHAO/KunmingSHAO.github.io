@@ -25,4 +25,4 @@ Kunming SHAO is now an undergraduate student at the **South China University of 
 
 
 ## News
-[14/02/2023]DAC 2023: One paper has been accepted by DAC (Design Automation Conference) 2023! Congrats！
+**[14/02/2023]DAC'23:** One paper has been accepted by DAC'23! Congrats！
