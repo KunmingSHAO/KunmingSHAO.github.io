@@ -23,3 +23,6 @@ Kunming SHAO is now an undergraduate student at the **South China University of 
 
 **Wechat:** 15236421192
 
+
+## News
+One paper has been accepted by DAC (Design Automation Conference) 2023! Congrats！
