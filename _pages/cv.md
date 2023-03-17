@@ -15,13 +15,13 @@ Education
 * GPA    3.94
 * Rank   1/120
 * IELTS  7
-* Supervisors are Prof. Bin LI and Prof. Zhaohui WU
+* Supervised by Prof. Bin LI and Prof. Zhaohui WU
 
 ### Visiting internship student, AI Chip Center for Emerging Smart Systems (ACCESS), 2022.11 - Present
 
 ### PhD student in Electronic and Computer Engineering, The Hong Kong University of Science and Technology (HKUST), 2023.08 - Present
 * Hardware design, AI chip and Digital Compute-In-Memory
-* Supervisors are Prof. Chi-Ying TSUI and Prof. Kwang-Ting Tim CHENG
+* Supervised by Prof. Chi-Ying TSUI, Prof. Tim CHENG and Prof. Fengbin TU.
 
 
 Awards and Honors
