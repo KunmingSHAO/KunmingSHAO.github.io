@@ -26,6 +26,8 @@ Education
 
 Awards and Honors
 ======
+* Hong Kong PhD Fellowship
+* HKUST RedBird PhD Recruitment Award
 * National Scholarship (2021,2022)
 * Look forward to good news
 
