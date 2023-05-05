@@ -28,7 +28,7 @@ Awards and Honors
 ======
 * Hong Kong PhD Fellowship (Top 3%)
 * HKUST RedBird PhD Recruitment Award
-* Chinese National Scholarship 2020/2021,2021/2022 (Top 2%)
+* Chinese National Scholarship, 2021 and 2022 (Top 2%)
 * Look forward to good news
 
   
