@@ -26,9 +26,9 @@ Education
 
 Awards and Honors
 ======
-* Hong Kong PhD Fellowship
+* Hong Kong PhD Fellowship (Top 3%)
 * HKUST RedBird PhD Recruitment Award
-* National Scholarship (2021,2022)
+* Chinese National Scholarship 2020/2021,2021/2022 (Top 2%)
 * Look forward to good news
 
   
@@ -49,7 +49,7 @@ Teaching
   {% endfor %}</ul>
   
   
-Service and leadership
+Service and Leadership
 ======
 * Vice President of Microelectronics Association, SCUT
 * Excellent Social Practice Volunteer of SCUT
