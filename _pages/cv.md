@@ -12,22 +12,27 @@ redirect_from:
 Education
 ======
 ### BEng in Microelectronics, South China University of Technology (SCUT), 2019.09 - 2023.06
-* GPA    3.94
+* Score  93/100
+* GPA    3.95/4
 * Rank   1/120
 * IELTS  7
 * Supervised by Prof. Bin LI and Prof. Zhaohui WU
 
-### Visiting internship student, AI Chip Center for Emerging Smart Systems (ACCESS), 2022.11 - Present
+### Visiting internship student, The Hong Kong University of Science and Technology (HKUST) & AI Chip Center for Emerging Smart Systems (ACCESS), 2022.11 - 2023.07
 
-### PhD student in Electronic and Computer Engineering, The Hong Kong University of Science and Technology (HKUST), 2023.08 - Present
-* Hardware design, AI chip and Digital Compute-In-Memory
+### PhD student in Electronic and Computer Engineering, HKUST & ACCESS, 2023.08 - Present
 * Supervised by Prof. Chi-Ying TSUI, Prof. Tim CHENG and Prof. Fengbin TU.
 
+Research Interests
+======
+* Computer Architecture
+* AI Accelerator Based on Digital Compute-In-Memory
+* Digital Integrated Circuits
 
 Awards and Honors
 ======
-* Hong Kong PhD Fellowship (Top 3%)
-* HKUST RedBird PhD Recruitment Award
+* Hong Kong PhD Fellowship, 2023 (Top 3%)
+* HKUST RedBird PhD Recruitment Award, 2023
 * Chinese National Scholarship, 2021 and 2022 (Top 2%)
 * Look forward to good news
 
@@ -39,7 +44,6 @@ Skills
   * Verilog
   * Synthesis
   * Placement & Routing
-* Computer Architecture
 
   
 Teaching
