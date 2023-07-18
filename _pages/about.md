@@ -27,6 +27,6 @@ In Aug. 2023, he will be a PhD student at HKUST ECE supervised by **Prof. Chi-Yi
 
 
 ## News
-**[19/06/2023] Dissertation:** My dissertation, Digital Compute-In-Memory Automatic Design Methodology, has been selected as the excellent graduation project (dissertation)! \
+**[19/06/2023] Dissertation:** My dissertation, **Digital Compute-In-Memory Automatic Design Methodology**, has been selected as the excellent graduation project (dissertation)! \
 **[12/04/2023] HKPFS&Redbird:** I have been awarded the Hong Kong PhD Fellowship and HKUST Redbird Award! \
 **[14/02/2023] DAC'23:** One paper, **AutoDCIM**, has been accepted by DAC'23! Congrats！
