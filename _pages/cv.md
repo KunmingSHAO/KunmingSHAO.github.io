@@ -31,6 +31,7 @@ Research Interests
 
 Awards and Honors
 ======
+* SCUT Excellent Graduation Project (Dissertation), 2023 (Top 1%)
 * Hong Kong PhD Fellowship, 2023 (Top 3%)
 * HKUST RedBird PhD Recruitment Award, 2023
 * Chinese National Scholarship, 2021 and 2022 (Top 2%)
