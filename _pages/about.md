@@ -13,12 +13,10 @@ redirect_from:
 # Welcome to Kunming's homepage!
 &emsp;
 ## Kunming SHAO (邵堃明)
-### Undergraduate student at South China University of Technology (SCUT)
+### PhD student at The Hong Kong University of Science and Technology (HKUST)
 &emsp;
 
-Kunming SHAO is now an undergraduate student at the South China University of Technology and a visiting internship undergraduate student at The Hong Kong University of Science and Technology and AI Chip Center for Emerging Smart Systems. He will receive his Bachelor's degree at SCUT in June 2023 supervised by **Prof. Bin LI** (Associate Dean, SMIEEE) and **Prof. Zhaohui WU**.
-
-In Aug. 2023, he will be a PhD student at HKUST ECE supervised by **Prof. Chi-Ying TSUI** (Professor, Head of ISD Division, SMIEEE), **Prof. Tim CHENG** (Chair Professor, VP, FIEEE, FHKAES) and **Prof. Fengbin TU** (Assistant Professor). His current research interests are AI chip design, Digital Compute-In-Memory (DCIM) and Computer Architecture.
+Kunming SHAO is now an PhD student at The Hong Kong University of Science and Technology and AI Chip Center for Emerging Smart Systems supervised by **Prof. Chi-Ying TSUI** (Professor, Head of ISD Division, SMIEEE), **Prof. Tim CHENG** (Chair Professor, VP, FIEEE, FHKAES) and **Prof. Fengbin TU** (Assistant Professor). His current research interests are AI chip design, Digital Compute-In-Memory (DCIM) and Computer Architecture.
 
 
 **Email:** kshaoaa@connect.ust.hk
