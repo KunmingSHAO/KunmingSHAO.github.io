@@ -7,7 +7,6 @@ redirect_from:
   - /Reading list.html
 ---
 
-
 ## Books
 
 * Digital Integrated Circuits, A Design Perspective. Second Edition
@@ -31,3 +30,4 @@ redirect_from:
 * An 89TOPS/W and 16.3TOPS/mm2 All-Digital SRAM-Based Full-Precision Compute-In Memory Macro in 22nm for Machine-Learning Edge Applications
 * A 5-nm 254-TOPS/W 221-TOPS/mm2 Fully-Digital Computingin-Memory Macro Supporting Wide-Range Dynamic-Voltage-Frequency Scaling  and Simultaneous MAC and Write Operations
 * A 12nm 121-TOPS/W 41.6-TOPS/mm2 All Digital Full Precision SRAM-based Compute-in-Memory with Configurable Bit-width For AI Edge Applications
+* 
