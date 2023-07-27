@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
+### PhD student in Electronic and Computer Engineering, HKUST & ACCESS, 2023.08 - Present
+* Supervised by Prof. Chi-Ying TSUI, Prof. Tim CHENG and Prof. Fengbin TU.
+
+### Visiting internship student, The Hong Kong University of Science and Technology (HKUST) & AI Chip Center for Emerging Smart Systems (ACCESS), 2022.11 - 2023.07
+
 ### BEng in Microelectronics, South China University of Technology (SCUT), 2019.09 - 2023.06
 * Score  93/100
 * GPA    3.95/4
 * Rank   1/120
 * IELTS  7
 * Supervised by Prof. Bin LI and Prof. Zhaohui WU
-
-### Visiting internship student, The Hong Kong University of Science and Technology (HKUST) & AI Chip Center for Emerging Smart Systems (ACCESS), 2022.11 - 2023.07
-
-### PhD student in Electronic and Computer Engineering, HKUST & ACCESS, 2023.08 - Present
-* Supervised by Prof. Chi-Ying TSUI, Prof. Tim CHENG and Prof. Fengbin TU.
 
 Research Interests
 ======
