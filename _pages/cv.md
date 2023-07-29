@@ -36,16 +36,6 @@ Awards and Honors
 * HKUST RedBird PhD Recruitment Award, 2023
 * Chinese National Scholarship, 2021 and 2022 (Top 2%)
 * Look forward to good news
-
-  
-Skills
-======
-* Video Games
-* IC Design
-  * Verilog
-  * Synthesis
-  * Placement & Routing
-
   
 Teaching
 ======
