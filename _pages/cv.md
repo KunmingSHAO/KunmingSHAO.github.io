@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-### PhD student in Electronic and Computer Engineering, HKUST & ACCESS, 2023.08 - Present
+### PhD student in Electronic and Computer Engineering, The Hong Kong University of Science and Technology (HKUST) & AI Chip Center for Emerging Smart Systems (ACCESS), 2023.08 - Present
 * Supervised by Prof. Chi-Ying TSUI, Prof. Tim CHENG and Prof. Fengbin TU.
 
-### Visiting internship student, The Hong Kong University of Science and Technology (HKUST) & AI Chip Center for Emerging Smart Systems (ACCESS), 2022.11 - 2023.07
+### Visiting internship student, HKUST & ACCESS, 2022.11 - 2023.07
 
 ### BEng in Microelectronics, South China University of Technology (SCUT), 2019.09 - 2023.06
 * Score  93/100
