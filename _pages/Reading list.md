@@ -1,6 +1,6 @@
 ---
-permalink: /Learning Zone/
-title: "Reading list in 2023"
+permalink: /Reading list in 2023/
+title: "Learning Zone"
 author_profile: true
 redirect_from: 
   - /md/
