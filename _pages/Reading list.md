@@ -7,6 +7,11 @@ redirect_from:
   - /Reading list.html
 ---
 
+## Courses@HKUST
+* EESM5060 Embedded Systems
+* ELEC6910A First Principles of CV
+
+
 ## Books
 
 * Digital Integrated Circuits, A Design Perspective. Second Edition
