@@ -39,10 +39,10 @@ Awards and Honors
   
 Courses
 ======
-* **ELEC6910A** [A+] First Principles of Computer Vision
-* **EESM5060** [A+] Embedded Systems
-* **ELEC5160** [In progress] Digital VLSI System Design and Design Automation
-* **ELEC3300** [TA] Introduction to Embedded Systems   
+* **ELEC6910A** First Principles of Computer Vision [A+]
+* **EESM5060**  Embedded Systems [A+]
+* **ELEC5160**  Digital VLSI System Design and Design Automation [In progress]
+* **ELEC3300**  Introduction to Embedded Systems [TA]
 
 Service and Leadership
 ======
