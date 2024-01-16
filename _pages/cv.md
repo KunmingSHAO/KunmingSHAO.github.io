@@ -37,13 +37,13 @@ Awards and Honors
 * Chinese National Scholarship, 2021 and 2022 (Top 2%)
 * Look forward to good news
   
-Teaching
+Courses
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
+* **ELEC6910A** [A+] First Principles of Computer Vision
+* **EESM5060** [A+] Embedded Systems
+* **ELEC5160** [In progress] Digital VLSI System Design and Design Automation
+* **ELEC3300** [TA] Introduction to Embedded Systems   
+
 Service and Leadership
 ======
 * Vice President of Microelectronics Association, SCUT
