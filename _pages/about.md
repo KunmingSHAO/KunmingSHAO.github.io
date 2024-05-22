@@ -16,7 +16,7 @@ redirect_from:
 ### PhD student at The Hong Kong University of Science and Technology (HKUST)
 &emsp;
 
-Kunming SHAO is now an PhD student at The Hong Kong University of Science and Technology and AI Chip Center for Emerging Smart Systems supervised by **Prof. Chi-Ying TSUI** (Professor, Head of ISD Division, SMIEEE), **Prof. Tim CHENG** (Chair Professor, VP, FIEEE, FHKAES) and **Prof. Fengbin TU** (Assistant Professor). His current research interests are AI chip design, Digital Compute-In-Memory (DCIM) and Computer Architecture.
+Kunming SHAO is now an PhD student at The Hong Kong University of Science and Technology and AI Chip Center for Emerging Smart Systems supervised by **Prof. Chi-Ying TSUI** (Professor, Head of ISD Division, SMIEEE) and **Prof. Tim CHENG** (Chair Professor, VP, FIEEE, FHKAES). His current research interests are AI chip design, Digital Compute-In-Memory (DCIM) and Computer Architecture.
 
 
 **Email:** kshaoaa@connect.ust.hk or kshaoaa@foxmail.com
