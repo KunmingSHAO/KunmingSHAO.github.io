@@ -41,7 +41,7 @@ Courses
 ======
 * **ELEC6910A** First Principles of Computer Vision [A+]
 * **EESM5060**  Embedded Systems [A+]
-* **ELEC5160**  Digital VLSI System Design and Design Automation [In progress]
+* **ELEC5160**  Digital VLSI System Design and Design Automation [A+]
 * **ELEC3300**  Introduction to Embedded Systems [TA]
 
 Service and Leadership
