@@ -10,7 +10,7 @@ redirect_from:
 ## Courses@HKUST
 * EESM5060 Embedded Systems
 * ELEC6910A First Principles of CV
-* EESM5020 Digital VLSI System Design and Design Automation
+* ELEC5160 Digital VLSI System Design and Design Automation
 
 
 ## Books
