@@ -13,6 +13,7 @@ Education
 ======
 ### PhD student in Electronic and Computer Engineering, The Hong Kong University of Science and Technology (HKUST) & AI Chip Center for Emerging Smart Systems (ACCESS), 2023.08 - Present
 * Co-supervised by Prof. Chi-Ying TSUI and Prof. Tim CHENG.
+* GPA  4.3/4.3
 
 ### Visiting internship student, HKUST & ACCESS, 2022.11 - 2023.07
 
