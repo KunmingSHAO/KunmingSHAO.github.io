@@ -16,6 +16,7 @@ Education
 * GPA  4.3/4.3
 
 ### Visiting internship student, HKUST & ACCESS, 2022.11 - 2023.07
+* GPA  4.0/4.3
 
 ### BEng in Microelectronics, South China University of Technology (SCUT), 2019.09 - 2023.06
 * Score  93/100
