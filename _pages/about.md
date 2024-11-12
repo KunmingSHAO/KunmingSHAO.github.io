@@ -24,6 +24,7 @@ Kunming SHAO is now a PhD student at The Hong Kong University of Science and Tec
 
 
 ## News
+**[13/11/2024] DATE'25:** One first-authored paper, **SynDCIM**, has been accepted by DATE'25! Congrats!🎉 \
 **[13/07/2024] ICCAD'24:** One co-authored paper, **ReSCIM**, has been accepted by ICCAD'24! Congrats!🎉 \
 **[19/06/2023] Thesis:** My Bachelor's degree thesis, **Digital Compute-In-Memory Automatic Design Methodology**, has been selected as the excellent graduation project (thesis) of SCUT! Congrats!🎉\
 **[12/04/2023] HKPFS&Redbird:** I have been awarded the Hong Kong PhD Fellowship and HKUST Redbird Award! Congrats!🎉 \
