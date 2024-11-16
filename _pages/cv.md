@@ -47,6 +47,7 @@ Courses
 * **EESM5060**  Embedded Systems [A+]
 * **ELEC5160**  Digital VLSI System Design and Design Automation [A+]
 * **ELEC3300**  Introduction to Embedded Systems [TA]
+* **ELEC4410** CMOS VLSI [TA]
 
 Service and Leadership
 ======
