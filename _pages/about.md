@@ -24,7 +24,8 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 
 ## News
-**[06/12/2024] PQE:** I have passed my PhD Qualification Exam and would continue my PhD program as a PhD Candidate! Congrats!🎉 \
+**[09/01/2025] ISCAS'25:** One co-first-authored paper, **A Flexible Precision Scaling Deep Neural Network Accelerator with Efficient Weight Combination**, has been accepted by ISCAS'25! Congrats!🎉 \
+**[06/12/2024] PQE:** I have passed my PhD Qualification Exam and will continue my PhD program as a PhD Candidate! Congrats!🎉 \
 **[13/11/2024] DATE'25:** One first-authored paper, **SynDCIM: A Performance-Aware Digital Computing-in-Memory Compiler with Multi-Spec-Oriented Subcircuit Synthesis**, has been accepted by DATE'25! Congrats!🎉 \
 **[13/07/2024] ICCAD'24:** One co-authored paper, **ReSCIM: Variation-Resilient High Weight-Loading Bandwidth In-Memory Computation Based on Fine-Grained Hybrid Integration of Multi-Level ReRAM and SRAM Cells**, has been accepted by ICCAD'24! Congrats!🎉 \
 **[19/06/2023] Thesis:** My Bachelor's degree thesis, **Digital Compute-In-Memory Automatic Design Methodology**, has been selected as the excellent graduation project (thesis) of SCUT! Congrats!🎉\
