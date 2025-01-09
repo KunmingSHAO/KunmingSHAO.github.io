@@ -6,7 +6,7 @@ excerpt: 'This paper presents a reconfigurable DNN accelerator for continuous ac
 date: 2025-05-25
 venue: 'ISCAS'
 paperurl: 'To be released later'
-citation: 'Liang Zhao*, Kunming Shao*, Fengshi Tian, et al. A Flexible Precision Scaling Deep Neural Network Accelerator with Efficient Weight Combination. In 2025 IEEE International Symposium on Circuits and Systems (ISCAS), pages 1–6. IEEE, 2025.'
+citation: 'Liang Zhao*, __Kunming Shao*__, Fengshi Tian, et al. A Flexible Precision Scaling Deep Neural Network Accelerator with Efficient Weight Combination. In 2025 IEEE International Symposium on Circuits and Systems (ISCAS), pages 1–6. IEEE, 2025.'
 ---
 A Flexible Precision Scaling Deep Neural Network Accelerator with Efficient Weight Combination
 
