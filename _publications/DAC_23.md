@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "AutoDCIM: An Automated Digital CIM Compiler"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/DAC_23
+excerpt: 'This paper presents the first spec-to-layout circuit compiler for digital computing-in-memory macros.'
+date: 2023-07-09
+venue: 'DAC'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247976'
+citation: 'Jia Chen, Fengbin Tu, Kunming Shao, et al. AutoDCIM: An Automated Digital CIM Compiler. In 2023 60th ACM/IEEE Design Automation Conference (DAC), pages 1–6. IEEE, 2023.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+AutoDCIM: An Automated Digital CIM Compiler
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10247976)
