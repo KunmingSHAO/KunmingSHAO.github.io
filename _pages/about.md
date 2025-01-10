@@ -31,3 +31,5 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 **[19/06/2023] Thesis:** My Bachelor's degree thesis, **Digital Compute-In-Memory Automatic Design Methodology**, has been selected as the excellent graduation project (thesis) of SCUT! Congrats!🎉\
 **[12/04/2023] HKPFS&Redbird:** I have been awarded the Hong Kong PhD Fellowship and HKUST Redbird Award! Congrats!🎉 \
 **[14/02/2023] DAC'23:** One co-authored paper, **AutoDCIM: An Automated Digital CIM Compiler**, has been accepted by DAC'23! Congrats！🎉
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=d6TpbDkm30MhQxBEAnFmYRgisF6BV0T-GlVSiA0GfDY&cl=ffffff&w=a"></script>
