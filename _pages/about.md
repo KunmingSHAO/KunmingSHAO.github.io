@@ -33,4 +33,4 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 **[14/02/2023] DAC'23:** One co-authored paper, **AutoDCIM: An Automated Digital CIM Compiler**, has been accepted by DAC'23! Congrats！🎉
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=d6TpbDkm30MhQxBEAnFmYRgisF6BV0T-GlVSiA0GfDY&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=dlQewDWXOFOO3ktbqFfI4LrHeaJPHclAPktKulGKfIo"></script>
