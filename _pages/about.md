@@ -42,5 +42,27 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 **[14/02/2023] DAC'23:** One co-authored paper, **AutoDCIM: An Automated Digital CIM Compiler**, has been accepted by DAC'23! Congrats！🎉
 
+## Kunming Group
+I am honored to have organized and established a collaborative research group spanning multiple universities (including HKUST, SCUT, Westlake University, SYSU, WHU, ZJU, et al.), focusing on In-Memory Computation, Approximate Computing, Efficient Algorithms, and Emerging Non-Volatile Memories. I would like to express my heartfelt gratitude to all the members of the Kunming Group and our collaborators for their dedicated efforts. Throughout the progress of our projects, due credit has been clearly and fairly acknowledged and labeled in our papers, with the invaluable support of our supervisors.
+
+The details of the projects and collaborations are as follows:
+
+[DATE'25] A study on DCIM circuit design and its design automation, conducted by Kunming Shao (HKUST) and Fengshi Tian (HKUST).
+
+[ISCAS'25] Research on digital PE design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
+
+[CICC'25] An integrative study on Medical SoC, conducted by Fengshi Tian (HKUST), Jinbo Chen (Westlake), and Kunming Shao (HKUST).
+
+[DAC'25 WIP] Research on approximate computing, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
+
+[TCAS-II'25 (In Progress)] An integrative study on Floating-Point CIM design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
+
+[ISLPED'25 (In Progress)] An integrative study on edge-LLM acceleration, conducted by Kunming Shao (HKUST), Zhipeng Liao (Westlake), Jiangnan Yu (HKUST), and Xiaomeng Wang (HKUST).
+
+[TCAS-I'25 (In Progress)] Research on CIM-based system design, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
+
+[Tape-out (In Progress)] An integrative study on CIM-based systems, conducted by Kunming Shao (HKUST), Xiaomeng Wang (HKUST), and Jingyu He (HKUST).
+
+
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=dlQewDWXOFOO3ktbqFfI4LrHeaJPHclAPktKulGKfIo"></script>
