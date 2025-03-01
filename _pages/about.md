@@ -43,7 +43,7 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 **[14/02/2023] DAC'23:** One co-authored paper, **AutoDCIM: An Automated Digital CIM Compiler**, has been accepted by DAC'23! Congrats！🎉
 
 ## Kunming Group
-I am honored to have organized and established a collaborative research group spanning multiple universities (including HKUST, SCUT, Westlake, SYSU, WHU, ZJU, et al.), focusing on In-Memory Computation, Approximate Computing, Efficient Algorithms, and Emerging Non-Volatile Memories. I would like to express my heartfelt gratitude to all the members of the Kunming Group and our collaborators for their dedicated efforts. Throughout the progress of our projects, due credit has been clearly and fairly acknowledged and labeled in our papers, with the invaluable support of our supervisors.
+I am honored to have organized and established a collaborative research group spanning multiple universities (including HKUST, SCUT, Westlake, SYSU, WHU, et al.), focusing on In-Memory Computation, Approximate Computing, Efficient Algorithms, and Emerging Non-Volatile Memories. I would like to express my heartfelt gratitude to all the members of the Kunming Group and our collaborators for their dedicated efforts. Throughout the progress of our projects, due credit has been clearly and fairly acknowledged and labeled in our papers, with the invaluable support of our supervisors.
 
 The details of the projects and collaborations are as follows:
 
