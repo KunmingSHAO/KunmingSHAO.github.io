@@ -24,7 +24,7 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 
 ## News
-**[26/02/2025] DAC'25:** One first-authored work on **AI accelerator based on approximate computing** has been accepted by DAC'25 as a work-in-progress poster! We will continue to work on improving it until it pays off.💪
+**[26/02/2025] DAC'25 WIP:** One first-authored work on **AI accelerator based on approximate computing** has been accepted by DAC'25 as a work-in-progress poster! We will continue to work on improving it until it pays off.💪
 
 **[13/01/2025] CICC'25:** One co-first-authored (ECA) paper, **E-NPU: A 34~126nJ/Class Event-Driven Adaptive Neural SoC with Signal-Dynamics-Aware Feature Clustering and Multi-model In-Memory Inference/Training for Personalized Medical Wearables**, has been accepted by CICC'25! Congrats!🎉
 
@@ -47,21 +47,21 @@ I am honored to have organized and established a collaborative research group sp
 
 The details of the projects and collaborations are as follows:
 
-[DATE'25] A study on DCIM circuit design and its design automation, conducted by Kunming Shao (HKUST) and Fengshi Tian (HKUST).
+**[DATE'25]** A study on **DCIM** circuit design and its design automation, conducted by Kunming Shao (HKUST) and Fengshi Tian (HKUST).
 
-[ISCAS'25] Research on digital PE design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
+**[ISCAS'25]** Research on **digital PE** design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
 
-[CICC'25] An integrative study on Medical SoC, conducted by Fengshi Tian (HKUST), Jinbo Chen (Westlake), and Kunming Shao (HKUST).
+**[CICC'25]** An integrative study on **Medical SoC**, conducted by Fengshi Tian (HKUST), Jinbo Chen (Westlake), and Kunming Shao (HKUST).
 
-[DAC'25 WIP] Research on approximate computing, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
+**[DAC'25 WIP]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
 
-[TCAS-II'25 (In Progress)] An integrative study on Floating-Point CIM design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
+**[TCAS-II'25 (In Progress)]** An integrative study on **Floating-Point CIM** design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
 
-[ISLPED'25 (In Progress)] An integrative study on edge-LLM acceleration, conducted by Kunming Shao (HKUST), Zhipeng Liao (Westlake), Jiangnan Yu (HKUST), and Xiaomeng Wang (HKUST).
+**[ISLPED'25 (In Progress)]** An integrative study on **edge-LLM acceleration**, conducted by Kunming Shao (HKUST), Zhipeng Liao (Westlake), Jiangnan Yu (HKUST), and Xiaomeng Wang (HKUST).
 
-[TCAS-I'25 (In Progress)] Research on CIM-based system design, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
+**[TCAS-I'25 (In Progress)]** Research on **CIM-based system** design, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
 
-[Tape-out (In Progress)] An integrative study on CIM-based systems, conducted by Kunming Shao (HKUST), Xiaomeng Wang (HKUST), and Jingyu He (HKUST).
+**[Tape-out (In Progress)]** An integrative study on **CIM-based system**, conducted by Kunming Shao (HKUST), Xiaomeng Wang (HKUST), and Jingyu He (HKUST).
 
 
 
