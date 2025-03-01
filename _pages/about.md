@@ -45,7 +45,7 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 ## Kunming Group
 I am honored to have organized and established a collaborative research group spanning multiple universities (including HKUST, SCUT, Westlake, SYSU, WHU, et al.), focusing on In-Memory Computation, Approximate Computing, Efficient Algorithms, and Emerging Non-Volatile Memories. I would like to express my heartfelt gratitude to all the members of the Kunming Group and our collaborators for their dedicated efforts. Throughout the progress of our projects, due credit has been clearly and fairly acknowledged and labeled in our papers, with the invaluable support of our supervisors.
 
-The details of the projects and collaborations are as follows:
+The details of the projects and collaborations are as follows (Only first/co-first author and corresponding author):
 
 **[DATE'25]** A study on **DCIM** circuit design and its design automation, conducted by Kunming Shao (HKUST) and Fengshi Tian (HKUST).
 
