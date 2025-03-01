@@ -14,6 +14,7 @@ redirect_from:
 &emsp;
 ## Kunming SHAO (邵堃明)
 ### PhD candidate at The Hong Kong University of Science and Technology (HKUST)
+### BEng degree at South China University of Technology (SCUT)
 &emsp;
 
 Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and Technology and AI Chip Center for Emerging Smart Systems supervised by **Prof. Chi-Ying TSUI** (Professor, Head of ISD Division, SMIEEE) and **Prof. Tim CHENG** (Chair Professor, VP, FIEEE, FHKAES). His current research interests are AI chip design, Digital Compute-In-Memory (DCIM) and Electronic Design Automation (EDA).
