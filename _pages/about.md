@@ -56,11 +56,13 @@ The details of the projects and collaborations are as follows (Only first/co-fir
 
 **[DAC'25 WIP]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
 
-**[VLSI'25 (Under Review)]** Research on **edge DNN system**, conducted by Fengshi Tian (HKUST) and Kunming Shao (SCUT).
-
 **[TCAS-II'25 (Under Review)]** An integrative study on **Floating-Point CIM** design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
 
 **[ISLPED'25 (Under Review)]** An integrative study on **edge-LLM acceleration**, conducted by Kunming Shao (HKUST), Zhipeng Liao (Westlake), Jiangnan Yu (HKUST), and Xiaomeng Wang (HKUST).
+
+**[ICCAD'25 (Under Review)]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
+
+**[VLSI-SoC'25 (Under Review)]** Research on **Content Addressable Memory**, conducted by Kunming Shao (HKUST) and Zhipeng Liao (Westlake).
 
 **[TCAS-I'25 (In Progress)]** Research on **CIM-based system** design, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
 
