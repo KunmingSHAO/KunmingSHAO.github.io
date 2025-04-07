@@ -35,6 +35,7 @@ Research Interests
 
 Awards and Honors
 ======
+* HKUST Research Travel Grant, March, 2025
 * SCUT Excellent Graduation Project (Dissertation), 2023 (Top 1%)
 * Hong Kong PhD Fellowship, 2023 (Top 3%)
 * HKUST RedBird PhD Recruitment Award, 2023
