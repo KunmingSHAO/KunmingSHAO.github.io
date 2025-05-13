@@ -25,6 +25,8 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 
 ## News
+**[13/05/2025] ISLPED'25:** One first-authored paper, **DIRC-RAG: Accelerating Edge RAG with Robust High-Density and High-Loading-Bandwidth Digital In-ReRAM Computation**, has been accepted by ISLPED'25! Congrats!🎉
+
 **[26/02/2025] DAC'25 WIP:** One first-authored work on **AI accelerator based on approximate computing** has been accepted by DAC'25 as a work-in-progress poster! We will continue to work on improving it until it pays off.💪
 
 **[13/01/2025] CICC'25:** One co-first-authored (ECA) paper, **E-NPU: A 34~126nJ/Class Event-Driven Adaptive Neural SoC with Signal-Dynamics-Aware Feature Clustering and Multi-model In-Memory Inference/Training for Personalized Medical Wearables**, has been accepted by CICC'25! Congrats!🎉
