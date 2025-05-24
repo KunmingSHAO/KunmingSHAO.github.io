@@ -64,11 +64,9 @@ The details of the projects and collaborations are as follows (Only first/co-fir
 
 **[ICCAD'25 (Under Review)]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
 
-**[BioCAS'25 (In Progress)]** Research on **Content Addressable Memory**, conducted by Kunming Shao (HKUST) and Zhipeng Liao (Westlake).
+**[BioCAS'25 (Under Review)]** Research on **Wearable Edge Devices**, conducted by Zhipeng Liao (Westlake) and Kunming Shao (HKUST).
 
-**[TCAS-I'25 (In Progress)]** Research on **CIM-based system** design, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
 
-**[Tape-out (In Progress)]** An integrative study on **CIM-based system**, conducted by Kunming Shao (HKUST), Xiaomeng Wang (HKUST), and Jingyu He (HKUST).
 
 
 
