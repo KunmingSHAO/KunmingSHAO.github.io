@@ -25,6 +25,8 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 
 ## News
+**[16/07/2025] CASS Travel Grant:** I have been awarded the IEEE CASS Student Travel Grant! Congrats!🎉
+
 **[19/05/2025] ISLPED'25:** One first-authored paper on **RAG acceleration** has been accepted by ISLPED'25! Congrats!🎉
 
 **[26/02/2025] DAC'25 WIP:** One first-authored work on **AI accelerator based on approximate computing** has been accepted by DAC'25 as a work-in-progress poster! We will continue to work on improving it until it pays off.💪
