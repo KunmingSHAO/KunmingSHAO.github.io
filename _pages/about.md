@@ -25,7 +25,9 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 
 ## News
-**[18/07/2025] TCAD'25** One co-authored paper, **Configurable Dataflow and Adaptive Mapping Optimization for Hybrid ReRAM and SRAM Compute-in-Memory Accelerator**, has been accepted by TCAD! Congrats!🎉
+**[01/08/2025] BioCAS'25:** One led and co-first authored paper, **A Memory-Efficient Retrieval Architecture for RAG-Enabled Wearable Medical LLM-Agent**, has been accepted by BioCAS'25! Congrats!🎉
+
+**[18/07/2025] TCAD'25:** One co-authored paper, **Configurable Dataflow and Adaptive Mapping Optimization for Hybrid ReRAM and SRAM Compute-in-Memory Accelerator**, has been accepted by TCAD! Congrats!🎉
 
 **[16/07/2025] CASS Travel Grant:** I have been awarded the IEEE CASS Student Travel Grant! Congrats!🎉
 
