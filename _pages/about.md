@@ -64,13 +64,9 @@ The details of the projects and collaborations are as follows (Only first/co-fir
 
 **[DAC'25 WIP]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
 
-**[TCAS-II'25 (Under Review)]** An integrative study on **Floating-Point CIM** design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
-
 **[ISLPED'25]** An integrative study on **edge-LLM acceleration**, conducted by Kunming Shao (HKUST), Zhipeng Liao (Westlake), Jiangnan Yu (HKUST), and Xiaomeng Wang (HKUST).
 
-**[ICCAD'25 (Under Review)]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
-
-**[BioCAS'25 (Under Review)]** Research on **Wearable Edge Devices**, conducted by Zhipeng Liao (Westlake) and Kunming Shao (HKUST).
+**[BioCAS'25]** Research on **Wearable Edge Devices**, conducted by Zhipeng Liao (Westlake) and Kunming Shao (HKUST).
 
 
 
