@@ -26,6 +26,8 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 ## News
 
+**[05/11/2025] DATE'26:** One first-authored paper, **DS-CIM: Digital Stochastic Computing-In-Memory Featuring Accurate OR-Accumulation via Sample Region Remapping for Edge AI Models**, has been accepted by DATE'26! Congrats!🎉
+
 **[09/08/2025] ASSCC'25:** One co-authored paper, **Lemem: a 179.8TFLOPS/W, 24.21TFLOPS Learning-In-Memory Processor with Layer-Fused Forward/Backward Pipeline for Edge DNN/SNN Training/Inference**, has been accepted by ASSCC'25! Congrats!🎉
 
 **[01/08/2025] BioCAS'25:** One led and co-first authored paper, **A Memory-Efficient Retrieval Architecture for RAG-Enabled Wearable Medical LLM-Agent**, has been accepted by BioCAS'25! Congrats!🎉
@@ -70,6 +72,8 @@ The details of the projects and collaborations are as follows (Only first/co-fir
 **[ISLPED'25]** An integrative study on **edge-LLM acceleration**, conducted by Kunming Shao (HKUST), Zhipeng Liao (Westlake), Jiangnan Yu (HKUST), and Xiaomeng Wang (HKUST).
 
 **[BioCAS'25]** Research on **Wearable Edge Devices**, conducted by Zhipeng Liao (Westlake) and Kunming Shao (HKUST).
+
+**[DATE'26]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
 
 
 
