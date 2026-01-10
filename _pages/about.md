@@ -17,7 +17,7 @@ redirect_from:
 ### BEng degree at South China University of Technology (SCUT)
 &emsp;
 
-Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and Technology and AI Chip Center for Emerging Smart Systems supervised by **Prof. Chi-Ying TSUI** (Professor, Head of ISD Division, SMIEEE) and **Prof. Tim CHENG** (Chair Professor, VP, FIEEE, FHKAES). His current research interests are AI chip design, Computing-in-Memory, Model Quantization and Retrieval Augmented Generation.
+Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and Technology and AI Chip Center for Emerging Smart Systems supervised by **Prof. Chi-Ying TSUI** (Professor, Head of ISD Division, SMIEEE) and **Prof. Tim CHENG** (Chair Professor, VP, FIEEE, FHKAES). His current research interests are AI chip design, Computing-in-Memory base architecture design, MLSys, Code Agent and Quantization.
 
 
 **Email:** kshaoaa@connect.ust.hk or kshaoaa@foxmail.com
@@ -25,6 +25,9 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 
 ## News
+**[11/01/2026]** I will attend ASP-DAC in Hong Kong and DATE in Italy. Welcome to stablish connection with me, see you then!
+
+**[20/11/2025]** Four papers, DAC*2 and CICC*2 are under review. Good luck!
 
 **[05/11/2025] DATE'26:** One first-authored paper, **DS-CIM: Digital Stochastic Computing-In-Memory Featuring Accurate OR-Accumulation via Sample Region Remapping for Edge AI Models**, has been accepted by DATE'26! Congrats!🎉
 
