@@ -25,7 +25,7 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 
 ## News
-**[11/01/2026]** I will attend ASP-DAC in Hong Kong and DATE in Italy. Welcome to stablish connection with me, see you then!
+**[11/01/2026]** I will attend ASP-DAC in Hong Kong and DATE in Italy. Welcome to establish connection with me, see you then!
 
 **[20/11/2025]** Four papers, DACx2 and CICCx2 are under review. Good luck!
 
