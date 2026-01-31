@@ -25,9 +25,10 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 
 ## News
-**[11/01/2026]** I will attend ASP-DAC in Hong Kong and DATE in Italy. Welcome to establish connection with me, see you then!
 
-**[20/11/2025]** Four papers, DACx2 and CICCx2 are under review. Good luck!
+**[31/01/2026]** Four papers, DACx2, VLSIx1 and TVLSIx1 are under review. Good luck!
+
+**[11/01/2026]** I will attend ASP-DAC in Hong Kong and DATE in Italy. Welcome to establish connection with me, see you then!
 
 **[05/11/2025] DATE'26:** One first-authored paper, **DS-CIM: Digital Stochastic Computing-In-Memory Featuring Accurate OR-Accumulation via Sample Region Remapping for Edge AI Models**, has been accepted by DATE'26! Congrats!🎉
 
@@ -59,8 +60,8 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 **[14/02/2023] DAC'23:** One co-authored paper, **AutoDCIM: An Automated Digital CIM Compiler**, has been accepted by DAC'23! Congrats！🎉
 
-## Kunming Group
-I am honored to have organized and established a collaborative research group spanning multiple universities (including HKUST, SCUT, Westlake, SYSU, WHU, et al.), focusing on In-Memory Computation, Approximate Computing, Efficient Algorithms, and Emerging Non-Volatile Memories. I would like to express my heartfelt gratitude to all the members of the Kunming Group and our collaborators for their dedicated efforts. Throughout the progress of our projects, due credit has been clearly and fairly acknowledged and labeled in our papers, with the invaluable support of our supervisors.
+## Our Research Group
+I am fortunate to have organized and established a collaborative research group spanning multiple universities (including HKUST, SCUT, Westlake, SYSU, WHU, et al.), focusing on In-Memory Computation, Approximate Computing, Efficient Algorithms, and Emerging Non-Volatile Memories. I would like to express my heartfelt gratitude to all the members of the Kunming Group and our collaborators for their dedicated efforts. Throughout the progress of our projects, due credit has been clearly and fairly acknowledged and labeled in our papers, with the invaluable support of our supervisors.
 
 The details of the projects and collaborations are as follows (Only first/co-first author and corresponding author):
 
