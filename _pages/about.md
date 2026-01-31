@@ -26,8 +26,6 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 ## News
 
-**[31/01/2026]** Four papers, DACx2, VLSIx1 and TVLSIx1 are under review. Good luck!
-
 **[11/01/2026]** I will attend ASP-DAC in Hong Kong and DATE in Italy. Welcome to establish connection with me, see you then!
 
 **[05/11/2025] DATE'26:** One first-authored paper, **DS-CIM: Digital Stochastic Computing-In-Memory Featuring Accurate OR-Accumulation via Sample Region Remapping for Edge AI Models**, has been accepted by DATE'26! Congrats!🎉
