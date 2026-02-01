@@ -63,19 +63,19 @@ I am fortunate to have organized and established a collaborative research group 
 
 The details of the projects and collaborations are as follows (Only first/co-first author and corresponding author):
 
-**[DATE'25]** A study on **DCIM** circuit design and its design automation, conducted by Kunming Shao (HKUST) and Fengshi Tian (HKUST).
+**[DATE'25][CORE-A][CCF-B]** A study on **DCIM** circuit design and its design automation, conducted by Kunming Shao (HKUST) and Fengshi Tian (HKUST).
 
-**[ISCAS'25]** Research on **digital PE** design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
+**[ISCAS'25][CORE-C][CCF-C]** Research on **digital PE** design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
 
 **[CICC'25]** An integrative study on **Medical SoC**, conducted by Fengshi Tian (HKUST), Jinbo Chen (Westlake), and Kunming Shao (HKUST).
 
 **[DAC'25 WIP]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
 
-**[ISLPED'25]** An integrative study on **edge-LLM acceleration**, conducted by Kunming Shao (HKUST), Zhipeng Liao (Westlake), Jiangnan Yu (HKUST), and Xiaomeng Wang (HKUST).
+**[ISLPED'25][CORE-A][CCF-C]** An integrative study on **edge-LLM acceleration**, conducted by Kunming Shao (HKUST), Zhipeng Liao (Westlake), Jiangnan Yu (HKUST), and Xiaomeng Wang (HKUST).
 
 **[BioCAS'25]** Research on **Wearable Edge Devices**, conducted by Zhipeng Liao (Westlake) and Kunming Shao (HKUST).
 
-**[DATE'26]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
+**[DATE'26][CORE-A][CCF-B]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
 
 
 
