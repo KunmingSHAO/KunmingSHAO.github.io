@@ -65,7 +65,7 @@ The details of the projects and collaborations are as follows (Only first/co-fir
 
 **[DATE'25][CORE-A][CCF-B]** A study on **DCIM** circuit design and its design automation, conducted by Kunming Shao (HKUST) and Fengshi Tian (HKUST).
 
-**[ISCAS'25][CORE-C][CCF-C]** Research on **digital PE** design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
+**[ISCAS'25][CORE-C][CCF-B]** Research on **digital PE** design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
 
 **[CICC'25]** An integrative study on **Medical SoC**, conducted by Fengshi Tian (HKUST), Jinbo Chen (Westlake), and Kunming Shao (HKUST).
 
