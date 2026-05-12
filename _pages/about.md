@@ -67,7 +67,7 @@ The details of the projects and collaborations are as follows (Only first/co-fir
 
 **[ISCAS'25][CORE-C][CCF-B]** Research on **digital PE** design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
 
-**[CICC'25]** An integrative study on **Medical SoC**, conducted by Fengshi Tian (HKUST), Jinbo Chen (Westlake), and Kunming Shao (HKUST).
+**[CICC'25][Top-Tier in IC]** An integrative study on **Medical SoC**, conducted by Fengshi Tian (HKUST), Jinbo Chen (Westlake), and Kunming Shao (HKUST).
 
 **[DAC'25 WIP]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
 
@@ -77,7 +77,9 @@ The details of the projects and collaborations are as follows (Only first/co-fir
 
 **[DATE'26][CORE-A][CCF-B]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
 
+**[TVLSI'26][CCF-B][JCR-Q2]** Research on **FP8 computing**, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
 
+**[ESSERC'26][Top-Tier in IC]** Research on **L-0.5 memory for MHA**, conducted by Kunming Shao (HKUST) and Xiaomeng Wang (HKUST).
 
 
 
