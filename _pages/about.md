@@ -26,6 +26,8 @@ Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and T
 
 ## News
 
+**[14/05/2026] ESSERC'26:** One first-authored paper, **SwiftCIM: a 55nm 23.2μJ/Token L-0.5 ReRAM Coupled Digital CIM Accelerator with Fully-Fused Multi-Head Attention Dataflow for FlashAttention**, has been accepted by ESSERC'26! Congrats!🎉
+
 **[13/05/2026] TVLSI:** One led and co-first-authored paper, **Balancing FP8 Computation Accuracy and Efficiency on Digital CIM via Shift-Aware On-the-fly Aligned-Mantissa Bitwidth Prediction**, has been accepted by TVLSI! Congrats!🎉
 
 **[11/01/2026]** I will attend ASP-DAC in Hong Kong and DATE in Italy. Welcome to establish connection with me, see you then!
