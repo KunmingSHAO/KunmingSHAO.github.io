@@ -14,6 +14,7 @@ redirect_from:
 &emsp;
 ## Kunming SHAO (邵堃明)
 ### PhD candidate at The Hong Kong University of Science and Technology (HKUST)
+I will graduate by 2027 Summer and plan to seek oppotunities for postdoc position.
 ### BEng degree at South China University of Technology (SCUT)
 &emsp;
 
