@@ -79,10 +79,20 @@ redirect_from:
         <strong>SwiftCIM</strong>
         <p>ReRAM-coupled digital CIM accelerator for FlashAttention dataflow.</p>
       </a>
+      <a class="thread-item" href="{{ base_path }}/publication/TVLSI_26">
+        <span>IEEE TVLSI</span>
+        <strong>FP8 DCIM</strong>
+        <p>Shift-aware aligned-mantissa bitwidth prediction for efficient FP8 computation on digital CIM.</p>
+      </a>
       <a class="thread-item" href="{{ base_path }}/publication/DATE_26">
         <span>DATE'26</span>
         <strong>DS-CIM</strong>
         <p>Digital stochastic CIM with accurate OR-accumulation for edge AI models.</p>
+      </a>
+      <a class="thread-item" href="{{ base_path }}/publication/BioCAS_25">
+        <span>BioCAS'25</span>
+        <strong>Wearable Medical RAG</strong>
+        <p>Memory-efficient retrieval architecture for RAG-enabled wearable medical LLM agents.</p>
       </a>
       <a class="thread-item" href="{{ base_path }}/publication/ISLPED_25">
         <span>ISLPED'25</span>
@@ -198,9 +208,12 @@ redirect_from:
       <article><span>DATE'25</span><strong>DCIM circuit design and automation</strong><p>Kunming Shao and Fengshi Tian, HKUST.</p></article>
       <article><span>ISCAS'25</span><strong>Digital PE design</strong><p>Liang Zhao, SCUT, and Kunming Shao, HKUST.</p></article>
       <article><span>CICC'25</span><strong>Medical neural SoC</strong><p>Fengshi Tian, HKUST; Jinbo Chen, Westlake; Kunming Shao, HKUST.</p></article>
+      <article><span>DAC'25 WIP</span><strong>Approximate computing accelerator</strong><p>Kunming Shao, HKUST, and Liang Zhao, SCUT.</p></article>
       <article><span>ISLPED'25</span><strong>Edge LLM and RAG acceleration</strong><p>Kunming Shao, HKUST; Zhipeng Liao, Westlake; Jiangnan Yu and Xiaomeng Wang, HKUST.</p></article>
       <article><span>BioCAS'25</span><strong>Wearable edge devices</strong><p>Zhipeng Liao, Westlake, and Kunming Shao, HKUST.</p></article>
-      <article><span>DATE'26 / TVLSI / ESSERC'26</span><strong>Approximate, FP8, and MHA-oriented CIM</strong><p>Kunming Shao, Liang Zhao, Xiaomeng Wang, and collaborators.</p></article>
+      <article><span>DATE'26</span><strong>Digital stochastic CIM</strong><p>Kunming Shao, HKUST, and Liang Zhao, SCUT.</p></article>
+      <article><span>IEEE TVLSI</span><strong>FP8 computing on digital CIM</strong><p>Liang Zhao, SCUT, and Kunming Shao, HKUST.</p></article>
+      <article><span>ESSERC'26</span><strong>L-0.5 memory for MHA</strong><p>Kunming Shao and Xiaomeng Wang, HKUST.</p></article>
     </div>
   </section>
 
