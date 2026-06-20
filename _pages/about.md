@@ -3,93 +3,211 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-
 {% include base_path %}
-# Welcome to Kunming's homepage!
-&emsp;
-## Kunming SHAO (邵堃明)
-### PhD candidate at The Hong Kong University of Science and Technology (HKUST)
-I will graduate by 2027 Summer and plan to seek oppotunities for postdoc position.
-### BEng degree at South China University of Technology (SCUT)
-&emsp;
 
-Kunming SHAO is now a PhD candidate at The Hong Kong University of Science and Technology and AI Chip Center for Emerging Smart Systems supervised by **Prof. Chi-Ying TSUI** (Professor, Head of ISD Division, SMIEEE) and **Prof. Tim CHENG** (Chair Professor, VP, FIEEE, FHKAES). His current research interests are AI chip design, Computing-in-Memory base architecture design, MLSys, Code Agent and Quantization.
+<div class="home-page">
+  <section class="home-hero">
+    <p class="home-eyebrow">PhD Candidate, HKUST ECE / ACCESS</p>
+    <h1>Kunming SHAO <span>邵堃明</span></h1>
+    <p class="home-lede">
+      I am a PhD candidate at The Hong Kong University of Science and Technology (HKUST) and the AI Chip Center for Emerging Smart Systems (ACCESS), supervised by
+      <strong>Prof. Chi-Ying TSUI</strong> and <strong>Prof. Tim Kwang-Ting CHENG</strong>.
+      My research connects digital compute-in-memory circuits, AI accelerator architecture, compiler automation, efficient ML systems, edge LLM agents, and quantization.
+    </p>
+    <p class="home-lede home-lede--secondary">
+      I expect to graduate in Summer 2027 and am actively exploring postdoctoral opportunities in AI hardware, computing-in-memory, and efficient intelligence systems.
+    </p>
+    <div class="home-actions" aria-label="Profile links">
+      <a href="{{ base_path }}/publications/">Publications</a>
+      <a href="https://scholar.google.com/citations?user=JU6McLoAAAAJ&hl=zh-CN">Google Scholar</a>
+      <a href="mailto:kshaoaa@connect.ust.hk">Email</a>
+    </div>
+  </section>
 
+  <section class="home-stats" aria-label="Profile highlights">
+    <div>
+      <span>Current role</span>
+      <strong>PhD Candidate</strong>
+      <p>HKUST ECE / ACCESS</p>
+    </div>
+    <div>
+      <span>Previous degree</span>
+      <strong>BEng, SCUT</strong>
+      <p>Excellent graduation thesis</p>
+    </div>
+    <div>
+      <span>Recognition</span>
+      <strong>HKPFS & RedBird</strong>
+      <p>Fellowship and academic awards</p>
+    </div>
+  </section>
 
-**Email:** kshaoaa@connect.ust.hk or kshaoaa@foxmail.com
+  <section class="home-section">
+    <div class="home-section-head">
+      <p class="home-eyebrow">Research Focus</p>
+      <h2>Hardware-efficient intelligence from circuit to system</h2>
+    </div>
+    <div class="focus-grid">
+      <article class="focus-card focus-card--teal">
+        <h3>Digital CIM and ReRAM</h3>
+        <p>Macro architecture, robust in-memory computation, hybrid SRAM/ReRAM cells, and design automation for digital compute-in-memory.</p>
+      </article>
+      <article class="focus-card focus-card--amber">
+        <h3>AI accelerators</h3>
+        <p>Energy-efficient accelerators for DNNs, SNNs, Transformers, FlashAttention, stochastic/approximate computing, and FP8 computation.</p>
+      </article>
+      <article class="focus-card focus-card--blue">
+        <h3>ML systems and agents</h3>
+        <p>Edge RAG, wearable medical LLM agents, retrieval acceleration, quantization, and hardware-aware deployment of efficient models.</p>
+      </article>
+    </div>
+  </section>
 
+  <section class="home-section">
+    <div class="home-section-head">
+      <p class="home-eyebrow">Selected Threads</p>
+      <h2>Recent publication directions</h2>
+    </div>
+    <div class="thread-list">
+      <a class="thread-item" href="{{ base_path }}/publication/ESSERC_26">
+        <span>ESSERC'26</span>
+        <strong>SwiftCIM</strong>
+        <p>ReRAM-coupled digital CIM accelerator for FlashAttention dataflow.</p>
+      </a>
+      <a class="thread-item" href="{{ base_path }}/publication/DATE_26">
+        <span>DATE'26</span>
+        <strong>DS-CIM</strong>
+        <p>Digital stochastic CIM with accurate OR-accumulation for edge AI models.</p>
+      </a>
+      <a class="thread-item" href="{{ base_path }}/publication/ISLPED_25">
+        <span>ISLPED'25</span>
+        <strong>DIRC-RAG</strong>
+        <p>High-density digital In-ReRAM computation for edge RAG retrieval.</p>
+      </a>
+      <a class="thread-item" href="{{ base_path }}/publication/DATE_25">
+        <span>DATE'25</span>
+        <strong>SynDCIM</strong>
+        <p>Performance-aware DCIM compiler with multi-spec subcircuit synthesis.</p>
+      </a>
+    </div>
+  </section>
 
+  <section class="home-section">
+    <div class="home-section-head">
+      <p class="home-eyebrow">News</p>
+      <h2>Latest updates</h2>
+    </div>
+    <div class="news-timeline">
+      <article>
+        <time datetime="2026-05-18">May 18, 2026</time>
+        <p><strong>RedBird Award:</strong> I received the HKUST RedBird Academic Excellence Award.</p>
+      </article>
+      <article>
+        <time datetime="2026-05-14">May 14, 2026</time>
+        <p><strong>ESSERC'26:</strong> My first-authored paper <em>SwiftCIM: a 55nm 23.2&mu;J/Token L-0.5 ReRAM Coupled Digital CIM Accelerator with Fully-Fused Multi-Head Attention Dataflow for FlashAttention</em> was accepted.</p>
+      </article>
+      <article>
+        <time datetime="2026-05-13">May 13, 2026</time>
+        <p><strong>TVLSI:</strong> The paper I led and co-first-authored, <em>Balancing FP8 Computation Accuracy and Efficiency on Digital CIM via Shift-Aware On-the-fly Aligned-Mantissa Bitwidth Prediction</em>, was accepted.</p>
+      </article>
+      <article>
+        <time datetime="2026-05-11">May 11, 2026</time>
+        <p><strong>US Patent:</strong> Our co-authored patent on a hybrid computing-in-memory device and multi-level sensing method was approved and published.</p>
+      </article>
+      <article>
+        <time datetime="2026-05-04">May 4, 2026</time>
+        <p><strong>Chinese Patent:</strong> Our co-authored patent on a hybrid CIM device and multi-level data-bit sensing method was approved and published.</p>
+      </article>
+      <article>
+        <time datetime="2025-11-05">Nov 5, 2025</time>
+        <p><strong>DATE'26:</strong> My first-authored paper <em>DS-CIM: Digital Stochastic Computing-In-Memory Featuring Accurate OR-Accumulation via Sample Region Remapping for Edge AI Models</em> was accepted.</p>
+      </article>
+      <article>
+        <time datetime="2025-09-08">Sep 8, 2025</time>
+        <p><strong>A-SSCC'25:</strong> Our co-authored paper <em>Lemem: A 179.8TFLOPS/W, 24.21TFLOPS Learning-In-Memory Processor with Layer-Fused Forward/Backward Pipeline for Edge DNN/SNN Training/Inference</em> was accepted.</p>
+      </article>
+      <article>
+        <time datetime="2025-08-01">Aug 1, 2025</time>
+        <p><strong>BioCAS'25:</strong> The paper I led and co-first-authored, <em>A Memory-Efficient Retrieval Architecture for RAG-Enabled Wearable Medical LLMs-Agents</em>, was accepted.</p>
+      </article>
+      <article>
+        <time datetime="2025-07-18">Jul 18, 2025</time>
+        <p><strong>TCAD:</strong> Our co-authored paper <em>Configurable Dataflow and Adaptive Mapping Optimization for Hybrid ReRAM and SRAM Compute-in-Memory Accelerator</em> was accepted.</p>
+      </article>
+      <article>
+        <time datetime="2025-07-16">Jul 16, 2025</time>
+        <p><strong>CASS Travel Grant:</strong> I received the IEEE CASS Student Travel Grant.</p>
+      </article>
+      <article>
+        <time datetime="2025-05-19">May 19, 2025</time>
+        <p><strong>ISLPED'25:</strong> My first-authored paper <em>DIRC-RAG: Accelerating Edge RAG with Robust High-Density and High-Loading-Bandwidth Digital In-ReRAM Computation</em> was accepted.</p>
+      </article>
+      <article>
+        <time datetime="2025-02-26">Feb 26, 2025</time>
+        <p><strong>DAC'25 WIP:</strong> My work-in-progress poster on AI accelerators based on approximate computing was accepted.</p>
+      </article>
+      <article>
+        <time datetime="2025-01-13">Jan 13, 2025</time>
+        <p><strong>CICC'25:</strong> Our co-first-authored paper <em>E-NPU: A 34~126nJ/Class Event-Driven Adaptive Neural SoC with Signal-Dynamics-Aware Feature Clustering and Multi-Model In-Memory Inference/Training for Personalized Medical Wearables</em> was accepted.</p>
+      </article>
+      <article>
+        <time datetime="2025-01-09">Jan 9, 2025</time>
+        <p><strong>ISCAS'25:</strong> Our co-first-authored paper <em>A Flexible Precision Scaling Deep Neural Network Accelerator with Efficient Weight Combination</em> was accepted.</p>
+      </article>
+      <article>
+        <time datetime="2024-12-06">Dec 6, 2024</time>
+        <p><strong>PQE:</strong> I passed the PhD Qualification Exam and continued as a PhD candidate.</p>
+      </article>
+      <article>
+        <time datetime="2024-11-13">Nov 13, 2024</time>
+        <p><strong>DATE'25:</strong> My first-authored paper <em>SynDCIM: A Performance-Aware Digital Computing-in-Memory Compiler with Multi-Spec-Oriented Subcircuit Synthesis</em> was accepted.</p>
+      </article>
+      <article>
+        <time datetime="2024-07-13">Jul 13, 2024</time>
+        <p><strong>ICCAD'24:</strong> Our co-authored paper <em>ReSCIM: Variation-Resilient High Weight-Loading Bandwidth In-Memory Computation Based on Fine-Grained Hybrid Integration of Multi-Level ReRAM and SRAM Cells</em> was accepted.</p>
+      </article>
+      <article>
+        <time datetime="2023-06-19">Jun 19, 2023</time>
+        <p><strong>Thesis:</strong> My BEng thesis, <em>Digital Compute-In-Memory Automatic Design Methodology</em>, was selected as an excellent graduation project at SCUT.</p>
+      </article>
+      <article>
+        <time datetime="2023-04-12">Apr 12, 2023</time>
+        <p><strong>HKPFS & RedBird:</strong> I received the Hong Kong PhD Fellowship and HKUST RedBird Award.</p>
+      </article>
+      <article>
+        <time datetime="2023-02-14">Feb 14, 2023</time>
+        <p><strong>DAC'23:</strong> Our co-authored paper <em>AutoDCIM: An Automated Digital CIM Compiler</em> was accepted.</p>
+      </article>
+    </div>
+  </section>
 
-## News
+  <section class="home-section">
+    <div class="home-section-head">
+      <p class="home-eyebrow">Collaborations</p>
+      <h2>Research group and joint projects</h2>
+    </div>
+    <p class="home-copy">
+      I coordinate a multi-institution collaboration across HKUST, SCUT, Westlake University, SYSU, WHU, and other partners on in-memory computation, approximate computing, efficient algorithms, and emerging non-volatile memories. The projects below highlight first/co-first author and corresponding-author roles.
+    </p>
+    <div class="collab-grid">
+      <article><span>DATE'25</span><strong>DCIM circuit design and automation</strong><p>Kunming Shao and Fengshi Tian, HKUST.</p></article>
+      <article><span>ISCAS'25</span><strong>Digital PE design</strong><p>Liang Zhao, SCUT, and Kunming Shao, HKUST.</p></article>
+      <article><span>CICC'25</span><strong>Medical neural SoC</strong><p>Fengshi Tian, HKUST; Jinbo Chen, Westlake; Kunming Shao, HKUST.</p></article>
+      <article><span>ISLPED'25</span><strong>Edge LLM and RAG acceleration</strong><p>Kunming Shao, HKUST; Zhipeng Liao, Westlake; Jiangnan Yu and Xiaomeng Wang, HKUST.</p></article>
+      <article><span>BioCAS'25</span><strong>Wearable edge devices</strong><p>Zhipeng Liao, Westlake, and Kunming Shao, HKUST.</p></article>
+      <article><span>DATE'26 / TVLSI / ESSERC'26</span><strong>Approximate, FP8, and MHA-oriented CIM</strong><p>Kunming Shao, Liang Zhao, Xiaomeng Wang, and collaborators.</p></article>
+    </div>
+  </section>
 
-**[18/05/2026] Redbird Award:** I have been awarded the HKUST RedBird Academic Excellence Award! Congrats!🎉
-
-**[14/05/2026] ESSERC'26:** One first-authored paper, **SwiftCIM: a 55nm 23.2μJ/Token L-0.5 ReRAM Coupled Digital CIM Accelerator with Fully-Fused Multi-Head Attention Dataflow for FlashAttention**, has been accepted by ESSERC'26! Congrats!🎉
-
-**[13/05/2026] TVLSI:** One led and co-first-authored paper, **Balancing FP8 Computation Accuracy and Efficiency on Digital CIM via Shift-Aware On-the-fly Aligned-Mantissa Bitwidth Prediction**, has been accepted by TVLSI! Congrats!🎉
-
-**[11/05/2026] US Patent:** One co-authored patent, HYBRID COMPUTING-IN-MEMORY (CIM) DEVICE AND A METHOD FOR SENSING MULTI-LEVEL DATA BIT WITH THE SAME, has been approved and published! Congrats!🎉
-
-**[04/05/2026] Chinese Patent:** One co-authored patent, 混合存储器内计算（CIM）装置及使用CIM装置感测多级数据位元的方法, has been approved and published! Congrats!🎉
-
-**[05/11/2025] DATE'26:** One first-authored paper, **DS-CIM: Digital Stochastic Computing-In-Memory Featuring Accurate OR-Accumulation via Sample Region Remapping for Edge AI Models**, has been accepted by DATE'26! Congrats!🎉
-
-**[09/08/2025] ASSCC'25:** One co-authored paper, **Lemem: a 179.8TFLOPS/W, 24.21TFLOPS Learning-In-Memory Processor with Layer-Fused Forward/Backward Pipeline for Edge DNN/SNN Training/Inference**, has been accepted by ASSCC'25! Congrats!🎉
-
-**[01/08/2025] BioCAS'25:** One led and co-first authored paper, **A Memory-Efficient Retrieval Architecture for RAG-Enabled Wearable Medical LLM-Agent**, has been accepted by BioCAS'25! Congrats!🎉
-
-**[18/07/2025] TCAD'25:** One co-authored paper, **Configurable Dataflow and Adaptive Mapping Optimization for Hybrid ReRAM and SRAM Compute-in-Memory Accelerator**, has been accepted by TCAD! Congrats!🎉
-
-**[16/07/2025] CASS Travel Grant:** I have been awarded the IEEE CASS Student Travel Grant! Congrats!🎉
-
-**[19/05/2025] ISLPED'25:** One first-authored paper, **DIRC-RAG: Accelerating Edge RAG with Robust High-Density and High-Loading-Bandwidth Digital In-ReRAM Computation** has been accepted by ISLPED'25! Congrats!🎉
-
-**[26/02/2025] DAC'25 WIP:** One first-authored work on **AI accelerator based on approximate computing** has been accepted by DAC'25 as a work-in-progress poster! We will continue to work on improving it until it pays off.💪
-
-**[13/01/2025] CICC'25:** One co-first-authored (ECA) paper, **E-NPU: A 34~126nJ/Class Event-Driven Adaptive Neural SoC with Signal-Dynamics-Aware Feature Clustering and Multi-model In-Memory Inference/Training for Personalized Medical Wearables**, has been accepted by CICC'25! Congrats!🎉
-
-**[09/01/2025] ISCAS'25:** One co-first-authored (ECA) paper, **A Flexible Precision Scaling Deep Neural Network Accelerator with Efficient Weight Combination**, has been accepted by ISCAS'25! Congrats!🎉
-
-**[06/12/2024] PQE:** I have passed my PhD Qualification Exam and will continue my PhD program as a PhD Candidate! Congrats!🎉
-
-**[13/11/2024] DATE'25:** One first-authored paper, **SynDCIM: A Performance-Aware Digital Computing-in-Memory Compiler with Multi-Spec-Oriented Subcircuit Synthesis**, has been accepted by DATE'25! Congrats!🎉
-
-**[13/07/2024] ICCAD'24:** One co-authored paper, **ReSCIM: Variation-Resilient High Weight-Loading Bandwidth In-Memory Computation Based on Fine-Grained Hybrid Integration of Multi-Level ReRAM and SRAM Cells**, has been accepted by ICCAD'24! Congrats!🎉
-
-**[19/06/2023] Thesis:** My Bachelor's degree thesis, **Digital Compute-In-Memory Automatic Design Methodology**, has been selected as the excellent graduation project (thesis) of SCUT! Congrats!🎉
-
-**[12/04/2023] HKPFS&Redbird:** I have been awarded the Hong Kong PhD Fellowship and HKUST Redbird Award! Congrats!🎉
-
-**[14/02/2023] DAC'23:** One co-authored paper, **AutoDCIM: An Automated Digital CIM Compiler**, has been accepted by DAC'23! Congrats！🎉
-
-## Our Research Group
-I am fortunate to have organized and established a collaborative research group spanning multiple universities (including HKUST, SCUT, Westlake, SYSU, WHU, et al.), focusing on In-Memory Computation, Approximate Computing, Efficient Algorithms, and Emerging Non-Volatile Memories. I would like to express my heartfelt gratitude to all the members of the Kunming Group and our collaborators for their dedicated efforts. Throughout the progress of our projects, due credit has been clearly and fairly acknowledged and labeled in our papers, with the invaluable support of our supervisors.
-
-The details of the projects and collaborations are as follows (Only first/co-first author and corresponding author):
-
-**[DATE'25][CORE-A][CCF-B]** A study on **DCIM** circuit design and its design automation, conducted by Kunming Shao (HKUST) and Fengshi Tian (HKUST).
-
-**[ISCAS'25][CORE-C][CCF-B]** Research on **digital PE** design, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
-
-**[CICC'25][Top-Tier in IC]** An integrative study on **Medical SoC**, conducted by Fengshi Tian (HKUST), Jinbo Chen (Westlake), and Kunming Shao (HKUST).
-
-**[DAC'25 WIP]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
-
-**[ISLPED'25][CORE-A][CCF-C]** An integrative study on **edge-LLM acceleration**, conducted by Kunming Shao (HKUST), Zhipeng Liao (Westlake), Jiangnan Yu (HKUST), and Xiaomeng Wang (HKUST).
-
-**[BioCAS'25]** Research on **Wearable Edge Devices**, conducted by Zhipeng Liao (Westlake) and Kunming Shao (HKUST).
-
-**[DATE'26][CORE-A][CCF-B]** Research on **approximate computing**, conducted by Kunming Shao (HKUST) and Liang Zhao (SCUT).
-
-**[TVLSI'26][CCF-B][JCR-Q2]** Research on **FP8 computing**, conducted by Liang Zhao (SCUT) and Kunming Shao (HKUST).
-
-**[ESSERC'26][Top-Tier in IC]** Research on **L-0.5 memory for MHA**, conducted by Kunming Shao (HKUST) and Xiaomeng Wang (HKUST).
-
-
+  <section class="home-contact">
+    <h2>Contact</h2>
+    <p><a href="mailto:kshaoaa@connect.ust.hk">kshaoaa@connect.ust.hk</a> / <a href="mailto:kshaoaa@foxmail.com">kshaoaa@foxmail.com</a></p>
+  </section>
+</div>
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=dlQewDWXOFOO3ktbqFfI4LrHeaJPHclAPktKulGKfIo"></script>
