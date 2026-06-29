@@ -114,6 +114,10 @@ redirect_from:
     </div>
     <div class="news-timeline">
       <article>
+        <time datetime="2026-06-27">June 27, 2026</time>
+        <p><strong>GRF Fund:</strong> One GRF Funding I applied and participated is Funded.</p>
+      </article>
+      <article>
         <time datetime="2026-05-18">May 18, 2026</time>
         <p><strong>RedBird Award:</strong> I received the HKUST RedBird Academic Excellence Award.</p>
       </article>
