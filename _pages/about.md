@@ -38,7 +38,7 @@ redirect_from:
     <div>
       <span>Previous degree</span>
       <strong>BEng, SCUT</strong>
-      <p>Excellent graduation thesis</p>
+      <p>Excellent graduation thesis, National Scholarships</p>
     </div>
     <div>
       <span>Recognition</span>
