@@ -115,6 +115,10 @@ redirect_from:
     <div class="news-timeline">
       <article>
         <time datetime="2026-06-27">June 27, 2026</time>
+        <p><strong>ICCAD'26</strong> Two co-first authored papers, Delta-MoE and DBS-CIM, have been accepted by ICCAD'26!</p>
+      </article>
+      <article>
+        <time datetime="2026-06-27">June 27, 2026</time>
         <p><strong>GRF Fund:</strong> One GRF Funding I applied and participated is Funded.</p>
       </article>
       <article>
