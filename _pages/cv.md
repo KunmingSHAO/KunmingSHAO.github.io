@@ -103,6 +103,7 @@ For the full list, please see my [publications page]({{ base_path }}/publication
 
 ## Service and Leadership
 
+- Journal Reviewer, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 - Journal Reviewer, IEEE Transactions on Circuits and Systems II (TCAS-II)
 - Vice President, Microelectronics Association, South China University of Technology
 - Excellent Social Practice Volunteer, South China University of Technology
