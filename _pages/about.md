@@ -222,6 +222,8 @@ redirect_from:
       <article><span>DATE'26</span><strong>Digital stochastic CIM</strong><p>Kunming Shao, HKUST, and Liang Zhao, SCUT.</p></article>
       <article><span>IEEE TVLSI</span><strong>FP8 computing on digital CIM</strong><p>Liang Zhao, SCUT, and Kunming Shao, HKUST.</p></article>
       <article><span>ESSERC'26</span><strong>L-0.5 memory for MHA</strong><p>Kunming Shao and Xiaomeng Wang, HKUST.</p></article>
+      <article><span>ICCAD'26</span><strong>MoE compression and scheduling optimization</strong><p>Jiangnan Yu and Kunming Shao, HKUST.</p></article>
+      <article><span>ICCAD'26</span><strong>Bit-block sparsity and quantization</strong><p>Xu Chen, SCUT, and Kunming Shao, HKUST.</p></article>
     </div>
   </section>
 
